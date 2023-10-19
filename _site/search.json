@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Fabian-Ketwaroo.github.io",
+    "title": "Dr. Fabian R. Ketwaroo",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Bio\nI am a highly skilled and research-driven PhD statistician specializing in developing and applying advanced statistical modeling techniques to analyze complex ecological data sets.\nMy research interest includes\n\nEcological statistics,\nSpatial and spatio-temporal modelling,\nSpatial Capture-Recapture models,\nN-mixture models,\nDynamic Occupancy models,\nObjective priors,\nBayesian Model and Variable selection,\nBayesian Non-parametric methods,\nTheory and Applications, Computational Methods.\n\nOn a personal note, I find enjoyment in frequenting the gym, participating in outdoor activities, and setting aside time to engage in play with pets.\nOn this site I keep  my CV and a list of projects and  presentations."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,40 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Dr. Fabian Ketwaroo",
+    "section": "",
+    "text": "I am a highly skilled and research-driven PhD statistician specializing in developing and applying advanced statistical modeling techniques to analyze complex ecological data sets.\nMy research interest includes\n\nEcological statistics, Spatial and spatio-temporal modelling,\nSpatial Capture-Recapture models,\nN-mixture models,\nDynamic Occupancy models,\nObjective priors,\nBayesian Model and Variable selection,\nBayesian Non-parametric methods,\nTheory and Applications, Computational Methods.\n\nOn a personal note, I find enjoyment in frequenting the gym, participating in outdoor activities, and setting aside time to engage in play with pets.\nOn this site I keep a list of my publications, presentations, and my CV, as well as a technical blog."
+  },
+  {
+    "objectID": "index.html#cv",
+    "href": "index.html#cv",
+    "title": "Dr. Fabian Ketwaroo",
+    "section": "CV",
+    "text": "CV"
+  },
+  {
+    "objectID": "index.html#this-website-is",
+    "href": "index.html#this-website-is",
+    "title": "Dr. Fabian Ketwaroo",
+    "section": "This website is",
+    "text": "This website is"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Modelling disease dynamics from spatially explicit capture-recapture data.\nSpatio‑temporal modelling of European badgers to better understand how disease (bovine tuberculosis (TB)) dynamics are linked to population dynamics within a spatial context.\n\n\nSpecifying, Assessing and Selecting N‑mixture Models in a Bayesian framework.\nImplementing objective priors for N‑mixture models and investigating model selection and identifiability of N‑mixture model within a Bayesian framework.\n\n\nA New Modeling Framework for Roost Count Data.\nNovel modelling framework that can be used to estimate population size at a site, while accounting for observation error and temporary emigration parametrically and non‑parametrically, including efficient variable selection algorithms for identifying important predictors of observation error.\n\n\nBayesian Caste‑Specific Demography and Phenology in Bumblebees: Modeling BeeWalk Data\nNew Bayesian model for Bumblebee citizen science data in the U.K. This model produces estimates of key demographic parameters such as caste‑specific phenology and average nest productivity, in the wild. I implemented the model into an R shiny app, allowing users without prior knowledge of R to fit the model to their data"
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "A new modeling framework for roost count data\nPoster presentation, ISEC, July 2022. Poster available at:"
   }
 ]

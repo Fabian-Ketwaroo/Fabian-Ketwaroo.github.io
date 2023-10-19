@@ -1,18 +1,24 @@
 project:
   type: website
-  output-dir: docs
+  resources:
+    - CV.pdf
 
 website:
-  title: "Fabian-Ketwaroo"
+  title: "Dr. Fabian R. Ketwaroo"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - CV.qmd
+      - projects.qmd
+      - talks.qmd
+      
 
 format:
   html:
-    theme: cosmo
+    grid: 
+      body-width: 3000px
+    theme: cerulean
     css: styles.css
     toc: true
 

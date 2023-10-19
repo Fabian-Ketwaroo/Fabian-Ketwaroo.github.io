@@ -1,0 +1,20 @@
+---
+title: "Projects"
+toc: false
+---
+
+### Modelling disease dynamics from spatially explicit capture-recapture data.
+
+Spatio‑temporal modelling of European badgers to better understand how disease (bovine tuberculosis (TB)) dynamics are linked to population dynamics within a spatial context.
+
+### Specifying, Assessing and Selecting N‑mixture Models in a Bayesian framework.
+
+Implementing objective priors for N‑mixture models and investigating model selection and identifiability of N‑mixture model within a Bayesian framework.
+
+### A New Modeling Framework for Roost Count Data.
+
+Novel modelling framework that can be used to estimate population size at a site, while accounting for observation error and temporary emigration parametrically and non‑parametrically, including efficient variable selection algorithms for identifying important predictors of observation error.
+
+### Bayesian Caste‑Specific Demography and Phenology in Bumblebees: Modeling BeeWalk Data
+
+New Bayesian model for Bumblebee citizen science data in the U.K. This model produces estimates of key demographic parameters such as caste‑specific phenology and average nest productivity, in the wild. I implemented the model into an R shiny app, allowing users without prior knowledge of R to fit the model to their data

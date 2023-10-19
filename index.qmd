@@ -1,11 +1,53 @@
 ---
-title: "Fabian-Ketwaroo.github.io"
+title: "Dr. Fabian R. Ketwaroo"
+subtitle: "Advancing Ecological Research through Statistical Modeling."
+image: FK_headshot.jpg
+toc: false
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 15em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/fabian-ketwaroo-005b0a176/
+    - text: Twitter
+      icon: twitter
+      href: https://twitter.com/fabianketwaroo
+    - text: GitHub
+      icon: github
+      href: https://github.com/Fabian-Ketwaroo
+    - text: Email
+      href: fabianketwaroo@gmail.com
+    - text: CV
+      url: "CV.pdf"
 ---
 
-This is a Quarto website.
+### Bio
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am a highly skilled and research-driven PhD statistician specializing in developing and applying advanced statistical modeling techniques to analyze complex ecological data sets.
 
-```{r}
-1 + 1
-```
+My research interest includes
+
+-   *Ecological statistics,*
+
+-   *Spatial and spatio-temporal modelling,*
+
+-   *Spatial Capture-Recapture models,*
+
+-   *N-mixture models,*
+
+-   *Dynamic Occupancy models,*
+
+-   *Objective priors,*
+
+-   *Bayesian Model and Variable selection,*
+
+-   *Bayesian Non-parametric methods,*
+
+-   *Theory and Applications, Computational Methods.*
+
+On a personal note, I find enjoyment in frequenting the gym, participating in outdoor activities, and setting aside time to engage in play with pets.
+
+On this site I keep  [my CV](CV.pdf) and a list of [projects](projects.qmd) and  [presentations](talks.qmd).
+
+### 

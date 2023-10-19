@@ -1,0 +1,7 @@
+---
+title: "Talks"
+---
+
+#### A new modeling framework for roost count data 
+
+Poster presentation, ISEC, July 2022. Poster available at:
