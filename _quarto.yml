@@ -10,11 +10,12 @@ website:
     right:
       - text: Home
         href: index.qmd
+      - text: Projects
+        href: projects
       - text: Presentations
         href: presentations
-      - projects.qmd
-      
-      
+     
+    
 
 format:
   html:

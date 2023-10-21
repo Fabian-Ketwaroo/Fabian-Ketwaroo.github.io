@@ -4,4 +4,35 @@ title: "Presentations"
 
 #### A New Modeling framework for roost count data
 
-Talk, National Centre for Statistical Ecology, Swansea, UK, June 2023. Slides available [here](NCSE_parrots.pdf)
+Talk, National Centre for Statistical Ecology (NCSE), Swansea, UK, June 2023. Slides available [here](NCSE_parrots.pdf)
+
+
+
+#### How to Walk the BeeWalk: Modelling Bumblebee Citizen Science Data
+
+Talk, EURING Analytical Meeting & Workshop, Online, France, April 2023. Slides available [here](BB_EURING.pdf)
+
+
+
+#### A New Modeling framework for roost count data
+
+Poster presentation, International Statistical Ecology conference (ISEC), Online, South Africa, July 2022. Poster available [here](Parrots_poster_ISEC.pdf)
+
+
+
+#### Spatially Explicit Capture‑Recapture Disease Uncertainty Models
+
+Talk, National Centre for Statistical Ecology (NCSE), Online, UK, June 2021. Slides available [here](SCR_disease_uncertainity.pdf)
+
+
+
+#### How to Walk the BeeWalk: Modelling Bumblebee Citizen Science Data
+
+Talk, Postgraduate Research (PGR) Statistics Seminar, University of Kent, Online, UK, March 2021. Slides available [here](Beewalk_PGR.pdf)
+
+
+
+#### Objective Priors from Scoring rules for N‑mixture models
+
+Talk, International Statistical Ecology conference (ISEC), Online, Australia, June 2020. Slides available [here](Objective_priors_Nmix_ISEC.pdf)
+

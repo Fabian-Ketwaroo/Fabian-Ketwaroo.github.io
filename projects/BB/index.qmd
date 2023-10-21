@@ -1,0 +1,18 @@
+---
+title: "Bayesian Caste‑Specific Demography and Phenology in Bumblebees: Modeling BeeWalk Data"
+toc: false
+---
+
+## Bayesian Caste‑Specific Demography and Phenology in Bumblebees: Modelling BeeWalk Data.
+
+Developed a Bayesian model to model Bumblebee citizen science data in the U.K. This model produces estimates of key demographic parameters such as caste‑specific phenology and average nest productivity, in the wild. I implemented the model into an R shiny app, allowing users without prior knowledge of R to fit the model to their data.
+
+Link to Rshiny app: <https://blogs.kent.ac.uk/beewalk/>
+
+The app is free to [download](https://blogs.kent.ac.uk/beewalk/modelling-beewalk-data/) and includes a detailed help file that explains how to format the data and how to set up the analysis.  This [presentation](How-to-Walk-the-BeeWalk-Modelling-Bumblebee-Citizen-Science-Data.pdf) provides a short introduction to the model and the app.
+
+## Bayesian Spatio-Temporal Caste‑Specific Demography and Phenology in Bumblebees: Modelling BeeWalk Data.
+
+Bumblebees are extraordinarily important components of the ecosystem, providing pollination services of vast economic impact and functioning as indicator species for changes in climate or land use. Declines, either of distribution or abundance, are thus of serious concern from agricultural and economic viewpoints as well as from a conservation point of view.  The *Beewalk* citizen science scheme was established by Bumblebee Conservation Trust to monitor the abundance of bumblebees in the UK. Volunteers walk along transects counting the number of bumblebees they detect and identifying their species and caste, where possible. However, the resulting data are incredibly sparse, introducing a computational challenge on a spatial scale. Consequently, we develop a novel Bayesian dynamic mixture model for *Beewalk* citizen science data that accounts for sparsity and enables spatio-temporal modelling. This framework produces invaluable information on caste-specific and area-specific demographic parameters such as phenology and relative abundance, amongst others.
+
+Here are the slides introducing the modelling framework and possible results [BeeWalk EURING Talk.](BB_EURING.pdf)

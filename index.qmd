@@ -48,6 +48,6 @@ My research interest includes
 
 On a personal note, I find enjoyment in frequenting the gym, participating in outdoor activities, and setting aside time to engage in play with pets.
 
-On this site I keep [my CV](CV.pdf) and a list of [projects](projects.qmd) and [presentations](talks.qmd).
+On this site I keep [my CV](CV.pdf) and a list of [projects](projects) and [presentations](presentations).
 
 ### 

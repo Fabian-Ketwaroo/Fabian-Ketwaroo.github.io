@@ -1,0 +1,12 @@
+---
+title: "Specifying, Assessing, and Selecting N‑mixture Models in a Bayesian framework"
+toc: false
+---
+
+## Abstract
+
+Using only spatially replicated counts from unmarked individuals, N-mixture models provide an attractive framework to obtain estimates of population size by accounting for imperfect detection. The robustness of N-mixture models has been examined in detail in a classical inference framework. However, to our knowledge, only a small number of such studies have been carried out on N-mixture models in a Bayesian setting. In this paper, we consider fitting N-mixture models within a Bayesian framework. To aid implementation, we apply a new proper objective prior distribution to N-mixture models. Using simulated data, we compare this new proper objective prior to approximations of the popular objective prior, Jeffreys prior, and find that these prior distributions perform similarly in terms of model inference. Importantly, we find that when the detection probability is small, using priors that are concentrated at zero, even with large variance, expected population size can be considerably underestimated. Large estimates of expected population size were also found, evident by the bimodal density of posterior medians obtained for simulated data. Additionally, we consider an extensive class of N-mixture models and investigate model selection using the Watanable-Akaike Information Criterion (WAIC) in a wide range of scenarios to examine the sensitivity of WAIC to likelihood specification. We find that WAIC computed from the conditional likelihood produces misleading results favoring more complicated models than the true model. Contrary, WAIC computed using the marginal likelihood correctly selects the true model with a high probability. Hence, model selection of N-mixture models should be obtained from WAIC using the marginal likelihood, not the conditional likelihood. We demonstrate the usefulness/importance of employing these methods in two real datasets. Hence, this work can be considered a template for how to specify and select N-mixture models in a Bayesian context.  We briefly investigate parameter identifiability of N-mixture models using Data cloning.
+
+TO BE SUBMITTED TO METHODS IN ECOLOGY AND EVOLUTION.
+
+Latest draft available [here](Specifying-Assessing-and-Selecting-N-mixture-Models-in-a-Bayesian-Framework.pdf).

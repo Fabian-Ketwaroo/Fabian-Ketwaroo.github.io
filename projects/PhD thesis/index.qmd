@@ -1,0 +1,18 @@
+---
+title: "Bayesian hierarchical models for ecological data: estimating population size, spatial and temporal patterns"
+toc: false
+---
+
+## **Abstract**
+
+The work in this thesis presents three manuscripts, described in Chapters 2 to 4.
+
+Chapter 2 presents an evaluation of the popular N-mixture model in a Bayesian framework to corroborate and extend issues concerning N-mixture models previously discussed in a classical framework. Specifically, the chapter focuses on prior specification, when no prior information is available, as well as on model selection. For prior specification, a novel objective prior that is proper is implemented and tested, and its performance is compared to approximations of the Jeffreys prior. Model selection of an extensive class of N-mixture models is performed using the Watanable-Akaike information criterion (WAIC) in a wide range of scenarios.
+
+Chapter 3 presents a Bayesian hierarchical modelling framework for count data on species that exhibit temporary emigration (TE) at a site with temporally replicated sampling. This modelling framework accounts for observation error and models TE parametrically and non-parametrically to provide estimates of temporal population size. Temporal models and Dirichlet process mixture models are introduced to model TE parametrically and non-parametrically, respectively. Both of these approaches give rise to interesting ecological interpretations of TE. Additionally, using an efficient Bayesian variable selection algorithm, this modelling framework is further extended to identify important predictors of observation error.
+
+Chapter 4 presents a Bayesian spatial model that simultaneously models disease dynamics and population dynamics using spatial capture-recapture data and imperfect diagnostic tests. Accounting for observation error in both detection and diagnostic tests, this framework enables a better understanding of how disease dynamics relate to population demographics in spatiotemporal contexts at an individual level. Specifically, disease transmission is modelled as a function of population density.
+
+The supplementary material for each paper is presented in the appendix.
+
+Thesis available [here](220FKetwaroo_PhD_Thesis.pdf)
