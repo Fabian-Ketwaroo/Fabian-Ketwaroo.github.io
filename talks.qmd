@@ -2,6 +2,6 @@
 title: "Presentations"
 ---
 
-#### A new modeling framework for roost count data
+#### A New Modeling framework for roost count data
 
-Poster presentation, ISEC, July 2022. Poster available at:
+Talk, National Centre for Statistical Ecology, June 2023. Slides available at:

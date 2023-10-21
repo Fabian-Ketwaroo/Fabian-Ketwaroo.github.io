@@ -8,11 +8,12 @@ website:
   title: "Dr. Fabian R. Ketwaroo"
   navbar:
     right:
-      - href: index.qmd
-        text: Home
-      - CV.qmd
+      - text: Home
+        href: index.qmd
+      - text: Presentations
+        href: presentations
       - projects.qmd
-      - talks.qmd
+      
       
 
 format:
