@@ -4,4 +4,4 @@ title: "Presentations"
 
 #### A New Modeling framework for roost count data
 
-Talk, National Centre for Statistical Ecology, Swansea, UK, June 2023. Slides available at: 
+Talk, National Centre for Statistical Ecology, Swansea, UK, June 2023. Slides available [here](NCSE_parrots.pdf)
