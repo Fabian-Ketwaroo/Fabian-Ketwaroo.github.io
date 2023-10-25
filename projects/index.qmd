@@ -3,33 +3,25 @@ title: "Projects"
 toc: false
 ---
 
-### [Bayesian hierarchical models for ecological data: estimating population size, spatial and temporal patterns](PhD thesis).
+### [Bayesian hierarchical models for ecological data: estimating population size, spatial and temporal patterns](PhD%20thesis).
 
-PhD thesis.
+PhD thesis, University of Kent, April 2023.
 
 ### [Efficient Bayesian Variable Selection for Dynamic Occupancy models](BVS_DOM).
 
 Applying Bayesian Hierarchical modelling techniques to develop dynamic occupancy models to predict species rangedynamics incorporating Bayesian variable selection in software R, based on [NIMBLE](https://r-nimble.org/).
 
-
-
 ### [Modelling disease dynamics from spatially explicit capture-recapture data](SCR_disease).
 
 Spatio‑temporal modelling of European badgers to better understand how disease (bovine tuberculosis (TB)) dynamics are linked to population dynamics within a spatial context.
-
-
 
 ### [Specifying, Assessing and Selecting N‑mixture Models in a Bayesian framework](Nmix).
 
 Implementing objective priors for N‑mixture models and investigating model selection and identifiability of N‑mixture model within a Bayesian framework.
 
-
-
 ### [A New Modeling Framework for Roost Count Data](Parrots).
 
 Novel modelling framework that can be used to estimate population size at a site, while accounting for observation error and temporary emigration parametrically and non‑parametrically, including efficient variable selection algorithms for identifying important predictors of observation error.
-
-
 
 ### [Bayesian Caste‑Specific Demography and Phenology in Bumblebees: Modeling BeeWalk Data](BB)
 
